@@ -1,0 +1,6 @@
+2021-06-18 06:58:13,617 INFO o.s.b.StartupInfoLogger [main] Starting SpringLog4j2SplunkApplication on DS-GFGW7Q2 with PID 16604 (C:\my workspace\integration-repo-master\spring-log4j2-splunk\target\classes started by adarsh.khandelwal in C:\my workspace\integration-repo-master\spring-log4j2-splunk)
+2021-06-18 06:58:13,620 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2021-06-18 06:58:13,621 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-06-18 06:58:13,924 INFO o.s.b.StartupInfoLogger [main] Started SpringLog4j2SplunkApplication in 0.723 seconds (JVM running for 1.678)
+2021-06-18 06:58:13,928 INFO n.d.i.s.l.s.s.SpringLog4j2SplunkService [main] This is a test event in splunk from log4j2 Fri Jun 18 06:58:13 IST 2021
+2021-06-18 06:58:13,929 ERROR n.d.i.s.l.s.s.SpringLog4j2SplunkService [main] This is a test error in splunk from log4j2 Fri Jun 18 06:58:13 IST 2021
